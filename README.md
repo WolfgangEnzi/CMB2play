@@ -7,4 +7,4 @@ Requirements:
 
 * the python package of Healpix, which can be found at https://healpy.readthedocs.io/en/latest/.
 
-I recommend to create a new python environment before installing camb and healpy with "pip install camb" and "pip install healpy", it may requests specific versions of standard packages.
+I recommend to create a new python environment before installing camb and healpy with "pip install camb" and "pip install healpy", it may request specific versions of standard packages.
