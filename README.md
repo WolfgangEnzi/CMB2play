@@ -3,8 +3,8 @@ A small python script to illustrate the how cosmological parameters affect the C
 
 Requirements:
 
-* CAMB, which can be found at https://camb.readthedocs.io/en/latest/ and http://camb.info. 
+* the python package of CAMB, which can be found at https://camb.readthedocs.io/en/latest/ and http://camb.info.
 
-* Healpy package, which can be found at https://healpy.readthedocs.io/en/latest/.
+* the python package of Healpix, which can be found at https://healpy.readthedocs.io/en/latest/.
 
-I recommend to create a new python environment before installing camb and healpy with "pip install camb" and "pip install healpy", it may requests specific versions of standard packages. Wolfgang Enzi 2021
+I recommend to create a new python environment before installing camb and healpy with "pip install camb" and "pip install healpy", it may requests specific versions of standard packages.
